@@ -23,6 +23,7 @@ to enhance code readability and maintainability.
 Download the repo , do "npm install" and enjoy your code... 💻📲👩‍💻
 *******************************
 
+<img width="1438" alt="image" src="https://github.com/AniqaRaouf/Assessment-for-Redux-Toolkit/assets/77120969/1985f6cc-d749-4976-820d-51a1c00dd0fa">
 
 
 
