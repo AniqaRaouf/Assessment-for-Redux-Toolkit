@@ -1,6 +1,5 @@
 # Assessment
 if you have any questions , contact at sheikhaniqa143@gmail.com
-Hello This is my assessment code contains following requirements.
 
 Test Requirement Question:
 As part of our evaluation process, we'd like you to complete a coding task using React Native.
@@ -19,6 +18,9 @@ they have submitted. Ensure that the displayed text is styled appropriately for 
 5. Code Structure and Readability: Organize your code in a clear and understandable
 manner. Pay attention to variable naming, indentation, and commenting where necessary
 to enhance code readability and maintainability.
+
+*******************************
+Download the repo , do "npm install" and enjoy your code... 💻📲👩‍💻
 
 
 
